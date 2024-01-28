@@ -1,0 +1,1 @@
+Very simple keyauth discord bot written in js. Just replace all the stuff in there with your id/sellerkey etc and youre good to go. It uses slash commands and is pretty good for all simple stuff like creating keys, resetting hwid and checking the key data
